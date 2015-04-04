@@ -1,3 +1,4 @@
 a = "This is my first git project in github with little knowledge of python"
+b = "I think i like this now"
 print (a)
 
